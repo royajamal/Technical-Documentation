@@ -1,13 +1,12 @@
-  body {
-  display: flex;
-  fontbody 
+body {
+  display: flex; 
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.3rem;
   margin: 0;
   padding: 0;
 }
 
-nav {
+.navbar {
   background-color: bisque;
   color: white;
   width: 200px;
