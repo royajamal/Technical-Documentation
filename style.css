@@ -46,8 +46,8 @@ main {
 
 @media (max-width: 600px) {
   nav li {
-  display: block;
-  margin: 0;
+    display: block;
+    margin: 0;
   }
 }
 
