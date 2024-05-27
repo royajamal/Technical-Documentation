@@ -44,13 +44,6 @@ main {
   padding: 20px 40px 0 20px;
 }
 
-@media (max-width: 600px) {
-  nav li {
-    display: block;
-    margin: 0;
-  }
-}
-
 .main-section {
   margin-bottom: 40px;
 }
@@ -72,6 +65,13 @@ code {
   border-radius: 4px;
   margin: 20px;
   padding: 15px;
+}
+
+/* Media Query */
+@media only screen and (max-width: 720px) {
+  li {
+    margin : 10px;
+  }
 }
 
 li {
