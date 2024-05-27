@@ -24,7 +24,7 @@
 
 ## Technologies Used 🛠️
 
-I uesd HTML and CSS
+I uesd HTML and css 
 
 Examples:
 
