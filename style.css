@@ -45,7 +45,7 @@ main {
 }
 
 @media (max-width: 600px) {
-nav li {
+  nav li {
   display: block;
   margin: 0;
 }
@@ -78,4 +78,3 @@ li {
   margin: 10px 0 5px 20px;
   list-style: circle;
 }
-
