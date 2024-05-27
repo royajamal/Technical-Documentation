@@ -70,7 +70,7 @@ code {
 /* Media Query */
 @media only screen and (max-width: 720px) {
   li {
-    margin : 10px;
+   margin : 10px;
   }
 }
 
