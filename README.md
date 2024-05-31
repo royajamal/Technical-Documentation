@@ -28,7 +28,7 @@
 
 
 
-![Demo](https://c:\Users\DELL\Pictures\Screenshot 2024-05-31 004505.png)
+![Demo](<img width="942" alt="Screenshot 2024-05-31 004505" src="https://github.com/royajamal/Technical-Documentation/assets/168343975/da483e1e-e9d5-4862-a492-64ca82abae2a">)
 
 ## Technologies Used 🛠
 
