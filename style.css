@@ -67,14 +67,14 @@ code {
   padding: 15px;
 }
 
-/* Media Query */
-@media only screen and (max-width: 720px) {
-  li {
-    margin: 10px;
-  }
-}
-
 li {
   margin: 10px 0 5px 20px;
   list-style: circle;
 }
+
+@media screen (max-width: 500px;) {
+  body {
+    display: flex;
+  }
+}
+    

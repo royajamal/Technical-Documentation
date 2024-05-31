@@ -1,30 +1,38 @@
-# Technical-Documentation 🚀
+ # Technical-Documentation-page 🚀
 
 ## Project Description 📝
 
-> This is out third real project in this project we build a technical-documentation-page form this project i learn a lot of things such as how to added HTML and CSS file in a technical-documentation...
+> Technical Documentation page this project is about the gerenal coding information like HTML, CSS, APIs, React,and Python  this project has a lot of information about HTML, css,...  these documents provide coding information to clients and users 
 
+<!-- Include code snippets or examples to demonstrate your project. -->
 
-```html
-<!-- <section id="#HTML-and-CSS" class="main-section"> -->
-```
-
-```css
-/*  body {
-  display: flex; 
+/* body {
+  display: flex;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.3rem;
   margin: 0;
   padding: 0;
-}. */
-```
+} */
+
+// <nav id="navbar">
+  <header class="navbar-header">General Coding information</header>
+  <a class="nav-link" href="#HTML_and_CSS">HTML and CSS</a>
+  <a class="nav-link" href="#JavaScript">JavaScript</a>
+  <a class="nav-link" href="#Python">Python</a>
+  <a class="nav-link" href="#React">React</a>
+  <a class="nav-link" href="#APIs">APIs</a>
+</nav>.
+
+
+## Demo 📸
 
 
 
+![Demo](https://c:\Users\DELL\Pictures\Screenshot 2024-05-31 004505.png)
 
-## Technologies Used 🛠️
+## Technologies Used 🛠
 
-I uesd HTML and css 
+the technologies that i used to develop my project. is HTML and CSS.
 
 Examples:
 
@@ -37,23 +45,22 @@ Examples:
 - MongoDB
 - Tailwind CSS
 
+## Installation 💻
 
+Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
 
-## Usage 🎯
+# clone the repository.
 
-Explain how to use your project. Provide examples and instructions on how to run it, any command-line options, or any other relevant information.
-
-```bash
-# Provide code snippets or commands to demonstrate how to use your project.
-```
-
-git bash
+# git bash
+# git clone..
 
 ## Author 👩‍💻
 
 Provide your name and a link to your Social Media profiles. You can also include your email address.
-- gitHub: [Your Name](https://github.com/royajamal/Technical-Documentation)
-- Email: [example](royajamal2003@gmail.com)
+
+- GitHub: (https://github.com/royajamal/Technical-Documentation)
+- Email: (royajamal2003@gmail.com)
+
 
 
 
