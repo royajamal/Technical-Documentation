@@ -28,7 +28,7 @@
 
 
 
-![Demo](<img width="942" alt="Screenshot 2024-05-31 004505" src="https://github.com/royajamal/Technical-Documentation/assets/168343975/da483e1e-e9d5-4862-a492-64ca82abae2a">)
+![Demo](<img  src="https://github.com/royajamal/Technical-Documentation/assets/168343975/da483e1e-e9d5-4862-a492-64ca82abae2a">
 
 ## Technologies Used 🛠
 
@@ -38,12 +38,6 @@ Examples:
 
 - HTML
 - CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
 
 ## Installation 💻
 
@@ -52,8 +46,7 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 # clone the repository.
 
 # git bash
-# git clone..
-
+# git clone..https://github.com/royajamal/Technical-Documentation.git
 ## Author 👩‍💻
 
 Provide your name and a link to your Social Media profiles. You can also include your email address.
