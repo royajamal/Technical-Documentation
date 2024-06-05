@@ -11,6 +11,7 @@
 
 
 ![Demo](<img  src="https://github.com/royajamal/Technical-Documentation/assets/168343975/da483e1e-e9d5-4862-a492-64ca82abae2a">
+(https://royajamal.github.io/Technical-Documentation/)
 
 ## Technologies Used 🛠
 
